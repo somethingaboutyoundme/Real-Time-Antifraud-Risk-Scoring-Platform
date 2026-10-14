@@ -1,4 +1,4 @@
-1. The Essence of the Freedom Bank Task
+# The Essence of the Freedom Bank Task
 
 **Task formulation:** Find suspicious loans using machine learning models, where a `scoreball >= 0.6` indicates a fraudulent loan.
 
@@ -232,64 +232,6 @@ You should be able to explain without a notebook:
 * Why is CatBoost suitable for high-cardinality categorical variables?
 * Why do probabilities need to be calibrated?
 * How to send a new application to the API and get a scoreball?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Вот полная выжимка всех материалов, касающихся **исключительно проекта Freedom Credit Score** (от понимания задачи до.production-развертывания модели), без каких-либо упоминаний второго проекта или стриминг-систем.
 
